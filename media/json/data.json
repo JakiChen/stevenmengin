@@ -1,0 +1,139 @@
+{
+	"imagepack": [{
+		"name": "arkade"
+	}, {
+		"name": "arkadesd"
+	}, {
+		"name": "duracell"
+	}, {
+		"name": "duracellsd"
+	}, {
+		"name": "magician"
+	}, {
+		"name": "magiciansd"
+	}, {
+		"name": "olivari"
+	}, {
+		"name": "olivarisd"
+	}, {
+		"name": "adidas"
+	}, {
+		"name": "adidassd"
+	}, {
+		"name": "5gum"
+	}, {
+		"name": "5gumsd"
+	}, {
+		"name": "snmn"
+	}, {
+		"name": "snmnsd"
+	}],
+	"projects": [{
+		"name": "arkade",
+		"title": "Arkade <br/> London",
+		"infotile": "Arkade London",
+		"subtitle": "Audio Reactive Art",
+		"tags": "Design, Art Direction / JUL 2016",
+		"description": "Arkade London is a pure experimental real time audio-reactive experiment working with Soundcloud’s API, WebGL and the WebAudio API. It gives the power to the user and lets them interact, using their keyboard to trigger generative real time graphics and visuals on top of the music they love. It’s been designed so that it can be projected on big walls and give easy access to DJs who need graphic visuals for their shows.<br/><br/><a target='_blank' href='http://arkade.london/'>arkade.london</a>",
+		"color": "0x0d0d0d",
+		"text": "rgb(145, 145, 145)"
+	}, {
+		"name": "duracell",
+		"title": "Duracell",
+		"infotile": "Duracell",
+		"subtitle": "Corporate Website",
+		"tags": "UI Designer / AUG 2014 / UNIT9",
+		"description": "UNIT9 worked closely with Anomaly to revamp Duracell’s existing website and create a new one with responsive design and smooth user experience on any kind of device, be it mobile, tablet or desktop. <br/><br/> We transformed a static website into one that lives and breathes innovation, reflecting the spirit of the brand. We wanted to draw attention to the premium rank of Duracell batteries, so we focused on creating a site that was simple and elegant.",
+		"color": "0xcb8955",
+		"text": "rgb(255, 207, 170)"
+	}, {
+		"name": "magician",
+		"title": "The <br/> Magicians",
+		"infotile": "The Magicians",
+		"subtitle": "Welcome to brakebills university",
+		"tags": "Designer / JAN 2014 / UNIT9",
+		"description": "Welcome to Brakebills is  an interactive second screen experience showcasing the new SyFy series ‘The Magicians’. The series is based on a trilogy by Lev Grossman and follows the adventures of a group of young magicians and their journey at Brakebills University for Magical Pedagogy. <br/><br/> The website aims to provide fans with a deeper understanding of what the characters and magic universe of Brakebills is like, unlocking special cult content every time an episode airs.",
+		"color": "0x253044",
+		"text": "rgb(73, 83, 100)"
+	}, {
+		"name": "olivari",
+		"title": "Olivari",
+		"infotile": "Olivari",
+		"subtitle": "Audio Cookbook",
+		"tags": "Art Director / AUG 2014 / UNIT9",
+		"description": "What do you do when you’re cooking with the aid of a cooking app?<br/><br/> Interaction with the recipe requires touch, which can be problematic if your fingers are covered in olive oil, egg yolk, crushed tomatoes, raw chicken, butter, flour, or any other delicious ingredient that could cause significant harm to your mobile device.<br/><br/>The solution came when Twofifteenmccann partnered with UNIT9  to build an audio-enabled cooking app, controlled by the user’s voice commands. Interaction is intuitive, fluid, and hands-free. Instead of swiping the screen to move to the next step, simply speak aloud to hear what’s next.",
+		"color": "0x547c87",
+		"text": "rgb(159, 178, 184)"
+	}, {
+		"name": "adidas",
+		"title": "Adidas",
+		"infotile": "Adidas",
+		"subtitle": "All Or Nothing",
+		"tags": "UI Designer / AUG 2014 / UNIT9",
+		"description": "All Or Nothing is an interactive scavenger hunt created to extend the hype beyond the 2014 FIFA World Cup. Powered by Google for Adidas, the virtual quest is set in Brazil and players participate by using StreetView to find clues scattered around the globe. </br> </br>  Players are tested with football trivia and win the next clue in the quest, getting one step closer to the next checkpoint, if they answer correctly. </br> </br>  The project was fully playable on mobile, desktop and tablet. The experience had more than 250,000 unique players. ",
+		"color": "0X21202a",
+		"text": "rgb(65, 62, 94)"
+	}, {
+		"name": "5gum",
+		"title": "5Gum",
+		"infotile": "5Gum",
+		"subtitle": "5gum experience",
+		"tags": "UI Designer / AUG 2014 / UNIT9",
+		"description": "Experience 5Gum is a multi-sensory virtual reality installation that lets you fly through virtual worlds and shoot thunderbolts from your fingertips.<br/><br/>The experience combines the Oculus Rift, the Kinect, 3D graphics, custom 7.1 sound design, two different forms of scented air, a harness, and a shipping container to create a sensory overload that culminates in letting users experience the sensation of flight.",
+		"color": "0x081116",
+		"text": "rgb(115, 128, 135)"
+	}, {
+		"name": "snmn",
+		"title": "Snmn",
+		"infotile": "Snmn",
+		"subtitle": "Personal space",
+		"tags": "Blog / AUG 2015",
+		"description": "SNMN is a personal space. This blog is the gap between two projects, a place where I can explore my ideas and try other graphic technics.<br/><br/><a target='_blank' href='http://snmnlab.tumblr.com/'>snmnlab.tumblr.com</a>",
+		"color": "0x1d1d1d",
+		"text": "rgb(96, 96, 96)"
+	}],
+	"wording": {
+		"about": {
+			"title1": "Hello,",
+			"title2": "Is it me you're looking for?",
+			"description": "I’m a Toronto based French Designer currently working at JAM3. </br> </br> I've worked with Audi, Google, Montblanc, Adidas... </br> </br> New experiences and challenges are my thing. </br> </br> If you have any cool projects or opportunities, get in touch!",
+			"recognition": "Recognition",
+			"recognitions": [
+				"X16 FWA",
+				"X6 AWWWARDS",
+				"X1 WEBBY AWARD",
+				"X2 ADOBE THE CUTTING EDGE"
+			],
+			"experience": "Experiences",
+			"experiences": [
+				"Jam3 Toronto / Interactive Designer / AUG 2016 - NOW",
+				"UNIT9 London / Digital Designer / JAN 2014 - JUL 2016",
+				"FRED & FARID Paris / AD Junior / MAR 2013 - NOV 2013",
+				"EDDI & SON Paris / Designer / OCT 2012 - MAR 2013"
+			],
+			"links": [{
+				"name": "twitter",
+				"url": "https://twitter.com/"
+			}, {
+				"name": "behance",
+				"url": "https://www.behance.net/"
+			}, {
+				"name": "linkedin",
+				"url": "https://uk.linkedin.com/in/JakiChen"
+			}, {
+				"name": "Zcool 站酷",
+				"url": "https://www.zcool.com.cn"
+			}, {
+				"name": "instagram",
+				"url": "https://www.instagram.com//"
+			}, {
+				"name": "dribbble",
+				"url": "https://dribbble.com/"
+			}]
+		},
+		"nav": {
+			"about": "About",
+			"mail": "JakiChen@me.com"
+		}
+	}
+}
